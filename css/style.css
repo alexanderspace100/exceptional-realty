@@ -2,6 +2,9 @@
 @import url(https://fonts.googleapis.com/css?family=Clicker+Script);
 
 /* This is a comment */
+*{
+	background-color: grey;
+}
 
 p{
 	font-size: 16px;
@@ -42,7 +45,7 @@ figcaption {
 }
 
 #details a:hover {
-	color: black;
+	color: green;
 	text-decoration: underline;
 }
 
